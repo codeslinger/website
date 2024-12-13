@@ -1,5 +1,5 @@
 baseURL = 'https://cbcg.net/'
 languageCode = 'en-us'
 title = 'socks and sandals'
-theme = ''
+theme = 'no-style-please'
 
